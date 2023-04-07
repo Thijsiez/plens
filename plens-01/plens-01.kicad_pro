@@ -236,7 +236,9 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "plens-01"
+    ]
   },
   "meta": {
     "filename": "plens-01.kicad_pro",
@@ -316,6 +318,11 @@
     "subpart_first_id": 65,
     "subpart_id_separator": 0
   },
-  "sheets": [],
+  "sheets": [
+    [
+      "3c9a1284-cf12-46cf-9f62-118226df36f8",
+      ""
+    ]
+  ],
   "text_variables": {}
 }
